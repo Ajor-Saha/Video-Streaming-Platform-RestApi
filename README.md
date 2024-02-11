@@ -20,7 +20,7 @@ Steps:
 
 Clone the repository:
 
-git clone https://your-repo-url.git
+git clone https://github.com/Ajor-Saha/Video-Streaming-Platform-RestApi
 
 Use code with caution. 
 
@@ -124,5 +124,5 @@ npm run dev
  Reference Video
  ```
  https://youtube.com/playlist?list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW&si=l7TtdRBCFIiK66XK
- 
+
  ```
