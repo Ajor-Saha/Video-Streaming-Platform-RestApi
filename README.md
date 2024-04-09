@@ -1,4 +1,4 @@
-Project Title: (Replace with your project's name)
+Project Title: Video-Streaming Platfrom
 
 ## Description:
 A versatile social media platform offering a wide range of features to connect, share, and express yourself.
